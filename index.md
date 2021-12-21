@@ -38,3 +38,9 @@ Hackathons and coding competitions participated:
   3. Global rank:139258 (in top 17% among all the THM global users, total global users: 837011)
 - Learning graphic designing from canva pro (using github student developer pack)
 - Learing Frontend from [Frontend Masters](Frontendmasters.com). (using github student developer pack)
+
+### - SPORTS AND EVENT MANAGEMENT EXPERIENCE
+- Part of college's sports committee
+- NCC Cadet
+- State level skating player
+- Daily runner and weight-lifter
