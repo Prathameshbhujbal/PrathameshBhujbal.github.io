@@ -33,8 +33,7 @@ Hackathons and coding competitions participated:
 
 ### - MISCELLANEOUS
 - TryHackMe progress:
-  1. THM Profile 
- ![THM profile](<img src="https://tryhackme-badges.s3.amazonaws.com/bubblingPanda.png" alt="TryHackMe">)
+  1. [TryHackMe Profile](https://tryhackme.com/p/bubblingPanda)
   2. 10 rooms completed
   3. received 2 badges
      - [Badge 1](https://tryhackme.com/bubblingPanda/badges/terminaled)
