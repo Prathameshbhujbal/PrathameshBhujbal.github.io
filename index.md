@@ -9,14 +9,29 @@ Currently pursuing:
 1. BSc in Data Science and Programming from IIT MADRAS and
 2. BE in CSE (Cybersecurity) from RCOEM, Nagpur.
 
-### - Hackathons/Coding competitions
+### - PROGRAMMING LANGUAGES
+- Comfortable in:
+    1. Python
+    2. HTML5
+    3. CSS3
+    4. BOOTSTRAP4
+
+- Planning to learn:
+    1. JAVA
+    2. C
+    3. App development
+    4. JavaScript
+    5. Ethical hacking
+    6. Pentesting
+
+### - HACKATHONS/CODING COMETITIONS
 Hackathons and coding competitions participated:
 - By devfolio:
     1. Building out loud (Hackathon)
     2. Plently Global Hackathon
 - Participated in many competitive programming contest organized by codechef
 
-### - Miscellaneous
+### - MISCELLANEOUS
 - TryHackMe progress:
   1. 10 rooms completed
   2. received 2 badges
