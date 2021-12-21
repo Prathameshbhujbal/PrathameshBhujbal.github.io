@@ -40,7 +40,7 @@ Hackathons and coding competitions participated:
      - [Badge 2](https://tryhackme.com/bubblingPanda/badges/7-day-streak)
   4. Global rank:139258 (in top 17% among all the THM global users, total global users: 837011)
 - Learning graphic designing from canva pro (using github student developer pack)
-- Learing Frontend from [Frontend Masters](Frontendmasters.com). (using github student developer pack)
+- Learing Frontend from [Frontend Masters](https://frontendmasters.com/). (using github student developer pack)
 
 ### - SPORTS AND EVENT MANAGEMENT EXPERIENCE
 - Part of college's sports committee
