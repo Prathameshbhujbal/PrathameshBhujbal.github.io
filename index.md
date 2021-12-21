@@ -1,4 +1,4 @@
-# Student portfolio
+# STUDENT PORTFOLIO
 
 Hi, my name is Prathamesh bhujbal! I'm
 a cybersecurity and data science undergrad
