@@ -1,6 +1,6 @@
 # STUDENT PORTFOLIO
 
-Hi, my name is Prathamesh bhujbal! I'm
+Hi, my name is [Prathamesh bhujbal](https://github.com/Prathameshbhujbal)! I'm
 a cybersecurity and data science undergrad
 and passionate about ethical hacking and pentesting.
 
