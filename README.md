@@ -1,3 +1,3 @@
 # PrathameshBhujbal.github.io
 
-Student portfolio displaying my achievements, current knowledge and future goals.
+This is repo contains my STUDENT PORTFOLIO displaying my achievements, current knowledge and future goals.
