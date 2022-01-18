@@ -4,10 +4,19 @@ Hi, my name is [Prathamesh bhujbal](https://github.com/Prathameshbhujbal)! I'm
 a cybersecurity and data science undergrad
 and passionate about web-development, ethical hacking, pentesting.
 
+#### - CONTACT DETAILS:
+- Phone Number: 9422126127
+- Email: 1. bhujbal.prad@gmail.com
+         2. bhujbalpp@rknec.edu
+         3. 21f2000169@student.onlinedegree.iitm.ac.in
+- LinkedIn: [My_Profile](https://www.linkedin.com/in/prathamesh-bhujbal-416a031b6/)
+
 ### - EDUCATION
 Currently pursuing:
 1. BSc in Data Science and Programming from [IIT MADRAS](https://onlinedegree.iitm.ac.in/) and
 2. BE in CSE (Cybersecurity) from [RCOEM](http://www.rknec.edu/), Nagpur.
+
+- High School Diploma subjects -> Physics, Chemistry, Maths, English, Physical Education.
 
 ### - PROGRAMMING LANGUAGES
 - Comfortable in:
