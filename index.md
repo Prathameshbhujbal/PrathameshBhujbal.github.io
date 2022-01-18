@@ -2,7 +2,7 @@
 
 Hi, my name is [Prathamesh bhujbal](https://github.com/Prathameshbhujbal)! I'm
 a cybersecurity and data science undergrad
-and passionate about ethical hacking and pentesting.
+and passionate about web-development, ethical hacking, pentesting.
 
 ### - EDUCATION
 Currently pursuing:
