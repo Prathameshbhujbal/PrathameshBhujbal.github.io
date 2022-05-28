@@ -18,6 +18,9 @@ Currently pursuing:
 
 - High School Diploma subjects -> Physics, Chemistry, Maths, English, Physical Education.
 
+### Achievements
+- Completed certification course in Data Science and Programming from **IIT MADRAS** : xfun::embed_file("Foundation_cert.pdf")
+
 ### - PROGRAMMING LANGUAGES
 - Comfortable in:
     1. Python
