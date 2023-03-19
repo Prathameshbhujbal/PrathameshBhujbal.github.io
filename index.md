@@ -2,7 +2,7 @@
 
 Hi, my name is [Prathamesh bhujbal](https://github.com/Prathameshbhujbal)! I'm
 a cybersecurity and data science undergrad
-and passionate about back-end development, ethical hacking
+and passionate about back-end development and ethical hacking.
 
 #### - CONTACT DETAILS:
 - Phone Number: 9422126127
@@ -19,7 +19,7 @@ Currently pursuing:
 - High School Diploma subjects -> Physics, Chemistry, Maths, English, Physical Education.
 
 ### Achievements
-- Working part-time in a startup on a live project to improve road safety. This project is recognised and received funding by Ministry of Road Transport and Highways of India. About the product: [Click here](https://www.trafficrewards.in/)
+- Working part-time in a startup on a live project to improve road safety. This project is recognised and received funding by Ministry of Road Transport and Highways of India. About the project: [Click here](https://www.trafficrewards.in/)
 - Part of Front-end team of IITM BS Paradox'23
 - Completed certification course in Data Science and Programming from **IIT MADRAS**
 
