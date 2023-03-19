@@ -52,7 +52,7 @@ Hackathons and coding competitions participated:
   
 
 ### - SPORTS AND EVENT MANAGEMENT EXPERIENCE
-- part of events teams of Geeks-For-Geeks club of college
+- part of events team of Geeks-For-Geeks club of college
 - Social Media Marketing for AARHANT (Cyber-security awareness week conducted by college)
 - Was part of college's sports committee in 2nd year of engineering
 - NCC Cadet
