@@ -43,7 +43,7 @@ Hackathons and coding competitions participated:
 - By [devfolio](https://devfolio.co/):
     1. Building out loud (Hackathon)
     2. Plently Global Hackathon
-- Occasional Competitive Programming doer.
+- Occasional CP doer.
 
 ### - MISCELLANEOUS
 - TryHackMe progress:
