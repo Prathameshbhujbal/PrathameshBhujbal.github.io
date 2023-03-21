@@ -1,4 +1,4 @@
-# STUDENT PORTFOLIO
+# STUDENT PORTFOLIO                          [profile_pic](Passport size photo.jpeg)
 
 Hi, my name is [Prathamesh bhujbal](https://github.com/Prathameshbhujbal)! I'm
 a cybersecurity and data science undergrad
