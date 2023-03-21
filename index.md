@@ -8,7 +8,7 @@ and passionate about back-end development and ethical hacking.
 - Phone Number: 9422126127
 - Email: 1. bhujbal.prad@gmail.com
          2. bhujbalpp@rknec.edu
-         3. 21f2000169@student.onlinedegree.iitm.ac.in
+         3. 21f2000169@ds.study.iitm.ac.in
 - LinkedIn: [My_Profile](https://www.linkedin.com/in/prathamesh-bhujbal-416a031b6/)
 
 ### - EDUCATION
