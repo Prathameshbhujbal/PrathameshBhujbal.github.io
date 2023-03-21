@@ -31,8 +31,11 @@ Currently pursuing:
     2. HTML5
     3. CSS3
     4. BOOTSTRAP4
-    5. Jinja
-    6. Flask
+    5. Tailwind CSS 
+    6. Jinja
+    7. Flask
+    8. React.js
+    9. vanilla.js
 
 - Planning to learn:
     1. JAVA
