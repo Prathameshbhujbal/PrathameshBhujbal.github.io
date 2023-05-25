@@ -1,5 +1,5 @@
 # STUDENT PORTFOLIO   
-<img src="https://github.com/Prathameshbhujbal/PrathameshBhujbal.github.io/blob/main/Passport%20size%20photo.jpeg">
+<!-- <img src="https://github.com/Prathameshbhujbal/PrathameshBhujbal.github.io/blob/main/Passport%20size%20photo.jpeg"> -->
 
 
 Hi, my name is [Prathamesh bhujbal](https://github.com/Prathameshbhujbal)! I'm
