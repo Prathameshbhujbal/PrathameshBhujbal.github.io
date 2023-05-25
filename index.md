@@ -23,7 +23,7 @@ Currently pursuing:
 ### Achievements
 - Working part-time in a startup on a live project to improve road safety. This project is recognised and received funding by Ministry of Road Transport and Highways of India. About the project: [Click here](https://www.trafficrewards.in/)
 - Part of Front-end team of IITM BS Paradox'23
-- Completed certification course in Data Science and Programming from **IIT MADRAS**
+- Completed certification level of BS degree in Data Science & it's application from **IIT MADRAS**
 
 
 
@@ -57,9 +57,9 @@ Hackathons and coding competitions participated:
   
 
 ### - SPORTS AND EVENT MANAGEMENT EXPERIENCE
-- part of events team of Geeks-For-Geeks club of college
-- Social Media Marketing Head for AARHANT (Cyber-security awareness week conducted by college)
+- Part of events team of Geeks-For-Geeks club of RCOEM
+- Social Media Marketing Head for AARHANT (Cyber-security awareness week conducted by RCOEM)
 - Was part of college's sports committee in 2nd year of engineering
-- NCC Cadet
+- Ex-NCC Cadet
 - State level skating player
 - Daily runner and weight-lifter
