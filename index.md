@@ -7,7 +7,6 @@ a cybersecurity and data science undergrad
 and passionate about back-end development and ethical hacking.
 
 #### - CONTACT DETAILS:
-- Phone Number: 9422126127
 - Email: 1. bhujbal.prad@gmail.com
          2. bhujbalpp@rknec.edu
          3. 21f2000169@ds.study.iitm.ac.in
